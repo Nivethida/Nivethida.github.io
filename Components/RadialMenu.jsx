@@ -45,7 +45,7 @@ const CircularMenu = () => (
         </div>
         <div className="button">
             <Tooltip content="My Resume!" styles={greenRoundedStyle}>
-                <a href="Nivethida_Kumarasamy_Resume.pdf" target="_blank"> <img src={'../Assets/Resume.png'}/></a>
+                <a href="https://github.com/Nivethida/nivethida.github.io/blob/master/Components/Nivethida_Kumarasamy_Resume.pdf" target="_blank"> <img src={'../Assets/Resume.png'}/></a>
             </Tooltip>
         </div>
         <div>
