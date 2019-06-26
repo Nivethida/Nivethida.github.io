@@ -18,7 +18,7 @@ const AboutPage = () => (
             towards designing highly scalable web applications.
         </p>
         <p>
-            I am currently working as Full Stack Developer in Drishticon, Fremont. Here I am part of the Engineering team,
+            I am currently working as Full Stack Developer in SAP-ARIBA, Palo Alto. Here I am part of the Engineering team,
             rewriting Goodcatcher - A Communinty based app which connects people who needs help with people who want to help, in angular.js to react.js.
         </p>
         <br></br>
